@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "student-guitar-tutor-app",
+  "private_key_id": "9246a8c126c6d5c08718acd12ec2e75e7b685834",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2qXeRUXFQ8mJh\nvSBARNGMXcIxyKwMKa13sw1Uz/JMlcayng7aBGJ/XLqorqGnTkVSZ6OZv40rcKV4\nT3Rghjvim0LerEuqDppYY8dkovhQx4rL71SUn11hg2SOOJzO3f32I960xM5h3MS5\nFSJEOY1D50ZKopXCj1tX2aYGHKvTdM/Ce17VvFNlWJfOflqDKoFvwXs2Pt3xj9qK\nRPycPE6QW2vpe2T2DlAb3iKqWSUC3UUqo2xGnehNIfcdGQgd0P/iAUn9r35c8x6F\nNm2Mi0o0RVHZTdluehImBBTR0fGboaJnAbvCIKF3xCLMhhb7xHr6BFBEh+j6EUnS\n6vSVmSN7AgMBAAECggEAUsKuw384jdn8XFdh7OyhWu1CJudKmIorp9/O6v36xNtZ\ntyUpCnvRGu6rPfE9mf27J+6AMBGbhzKXLk8lpfQ73tzE6/n5oFfUc7blqUGzq3n1\nd5f85Qfduehb35pj5dCsF+FBrvq6nZl24nriVzISQNFhRkCrBQeJ9eBNulg0O+5d\nnMx9vWIfbohZiT0s4FbpYzw2dBv+ZnM0vBm2x0ik5DsjrYy53658tlES6fvWTGmH\nYZ949Z70AywX25KRTqQf3ngSXWm0cUalbTmO0NSwurkIw/8CZ6/7jPG9zKFH5juT\nrkJRqowtRMtuQwPOU+skS2Cy9FHieTG4MEUOoiDXeQKBgQDZQZe+JvHAqOy7ulLa\nuydqYpZgAX1l5WDiHSWx63qJvOj9iyhcI/YsttGIQoIZJc9c/tpDbEqbcxmvwYfo\nPNsEJ78Amky9pK3mfGJUw2BbEk/+J0ErnCwxm2XDKV+TkxWYQ2/Xp/AcaR9MoJOb\ntKQuCwwMoj9iDqgepjfFEe2x6QKBgQDXPIrA45/gkZ4tkDaIl54Z5BPuJu+h2Vis\nx4FaT/7APHOFw+22QRICZMVYXFvDEQEQEu52t2IwME9sIp1NpeaEMxAOMH0WknBY\nhEvB5VV1bvm3IENps7ZLGBxPa/4g+xA3HBLVZBkUZ91944tBH9w2B8/8hATrb5wk\nzssaLLtHwwKBgEASmC38TlADgc3bpZPcnkNB0BeAWPs0Kt6Euhk+2WTF0fD0mXKT\nKIcHY8RL2RKRlBZZEwXPajFuQKUU7oAPcohHMI189CT57E+NX3KgLEqvm+fYq9+w\nr1fx/JESIp3jQvsk6FcxsB6w4go3UVEadVEe8O7I6uiAahSf8NKt9uwBAoGASKmy\nui3ecqUWfpFaJ8Dv6hO6usLAUaabrjDoNYIeIe4GnhkoLkhHeTFmAk+j1vXtouyR\nPtjoOBaHKZ2B943ThbvrZq7t++nSLb/0B3CR6kRd33nv6EZ4e1+XZySxNZcswT4k\nCZByexYZi39/KqxD3qXCjKBRPN6AG1kI7jw9uZsCgYEApQQoJVMD9rlLSP5VAzJp\nKLh70UUeeqw+hRs+XgpQJgbFIavCWZ/XaOhSP0O2foSgX7OLy3ZfPzlVllSo9Y/O\nWpeJx7CM0AhDfosVQ7YOjB2e0/jxgHqr91aozGb6dWbViNvi0cX20gZWs3l4Y8BC\nek3cF+RAw5JabSseBr+Bj6g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@student-guitar-tutor-app.iam.gserviceaccount.com",
+  "client_id": "103268316828387424730",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40student-guitar-tutor-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
